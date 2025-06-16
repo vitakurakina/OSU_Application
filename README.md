@@ -21,8 +21,8 @@ OSU Application — это мобильное приложение, разраб
 - Аутентификация: **Firebase Authentication**
 
 ## 📱 Системные требования
-- **Minimum SDK**: Android 7.0 (API 24)  
-- **Target SDK**: Android 14 (API 35)  
+- **Минимальная версия Android**: Android 7.0 (Nougat)  
+- **Оптимальная версия Android**: Android 14 (Upside Down Cake)  
 - **Поддерживаемые версии Android**: от 7.0 (Nougat) до 14 (Upside Down Cake)
 
 ## 📦 APK
